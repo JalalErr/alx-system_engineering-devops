@@ -1,3 +1,2 @@
-[master eb9ba80] readme file
- 1 file changed, 1 insertion(+)
- create mode 100644 0x00-shell_basics/README.md
+[master 33d43ae] readme file
+ 1 file changed, 3 insertions(+), 1 deletion(-)
