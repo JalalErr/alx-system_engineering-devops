@@ -1,2 +1,2 @@
-hello_world
-
+#!/bin/bash
+echo "Hello, word"
